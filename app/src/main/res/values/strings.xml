@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Product Stock</string>
+    <string name="product_stock">Product Stock</string>
+    <string name="login_sign_up">Login/Sign up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="next">Next</string>
+    <string name="write_message">Write message...</string>
+    <string name="jay_dev">Jay Dev</string>
+    <string name="todo">TODO</string>
+</resources>
